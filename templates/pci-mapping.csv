@@ -1,0 +1,2 @@
+mapping_id,verification_status,standard_and_exact_version,requirement_id,requirement_summary_in_own_words,official_source_and_page,scope_and_applicability_rationale,lab_control_or_test,evidence_id,result,limitations,verified_date,reviewer
+MAP-001,UNVERIFIED,,,,,,,,,Template row only; verify current official requirements before mapping; a lab exercise is not PCI DSS compliance validation,,
